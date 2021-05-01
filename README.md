@@ -17,7 +17,7 @@ This project required the creation of a Mongo database with a Mongoose schema an
 
 Click here for the <a href = "https://still-beach-03358.herokuapp.com/">deployed application</a>.
 
-![picture alt](screenshot.png "NoSQL Workout Tracker")
+![picture alt](screenshot.jpg "NoSQL Workout Tracker")
 
 This project may have some requeriments you need to meet in order to compile it. 
 You may need NodeJS in order to run javascript on the console and install dependecnies. You can go to the NodeJS site and follow trough the installation process.  After you get the node command on the console, you will have the node package manager npm as well. Please read the package instruction section below.
