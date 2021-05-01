@@ -13,9 +13,11 @@
 ## Description
 ![License](https://img.shields.io/badge/License-MIT-informational)
 
-This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+This project required the creation of a Mongo database with a Mongoose schema and handle routes with Express.
 
-![picture alt](http://via.placeholder.com/200x150 "NoSQL Workout Tracker")
+Click here for the <a href = "https://still-beach-03358.herokuapp.com/">deployed application</a>.
+
+![picture alt](screenshot.png "NoSQL Workout Tracker")
 
 This project may have some requeriments you need to meet in order to compile it. 
 You may need NodeJS in order to run javascript on the console and install dependecnies. You can go to the NodeJS site and follow trough the installation process.  After you get the node command on the console, you will have the node package manager npm as well. Please read the package instruction section below.
@@ -54,6 +56,7 @@ Create the pull request. Alternatively see the GitHub documentation on creating 
 
 ## Credits:
 mikeMarino
+
 ## License:
 This project uses the following license: 
 

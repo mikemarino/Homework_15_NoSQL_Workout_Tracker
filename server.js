@@ -4,7 +4,7 @@ const logger = require("morgan");
 
 const PORT = process.env.PORT || 3000;
 
-const Workout = require("./models/workout.js")
+// const Workout = require("./models/workout.js")
 const app = express();
 
 app.use(logger("dev"));
